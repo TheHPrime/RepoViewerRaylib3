@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\gonza\Downloads\ViewerRaylib3\src\main.c(10,5): warning C4013: 'srand' sin definir; se supone que extern devuelve como resultado int
+C:\Users\gonza\Downloads\ViewerRaylib3\src\main.c(31,37): warning C4129: “w”: secuencia de escape de caracteres no reconocida
+  ViewerRaylib3.vcxproj -> C:\Users\gonza\Downloads\ViewerRaylib3\bin\Debug\ViewerRaylib3.exe
